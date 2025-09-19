@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "empty-state-scenarios",
+      "description": "Illustration showing a person looking at an empty board with charts.",
+      "imageUrl": "https://picsum.photos/seed/certitest1/600/400",
+      "imageHint": "empty illustration"
+    }
+  ]
+}
